@@ -1,5 +1,5 @@
 {
-  "name": "apollo-storybook-react",
+  "name": "@tvachon/apollo-storybook-react",
   "version": "0.1.5",
   "description": "Add Apollo Client to your Storybook environment",
   "main": "lib/index.js",
@@ -39,6 +39,6 @@
     "react-dom": "^16.4.0"
   },
   "dependencies": {
-    "apollo-storybook-core": "^0.3.4"
+    "@tvachon/apollo-storybook-core": "^0.3.4"
   }
 }

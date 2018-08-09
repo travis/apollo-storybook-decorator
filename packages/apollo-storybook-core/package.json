@@ -1,5 +1,5 @@
 {
-  "name": "apollo-storybook-core",
+  "name": "@tvachon/apollo-storybook-core",
   "version": "0.3.4",
   "description": "Core Utils for apollo storybook",
   "main": "lib/index.js",
